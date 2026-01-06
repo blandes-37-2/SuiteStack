@@ -1,11 +1,7 @@
 SuiteStack - Enterprise Real Estate Intelligence Platform
 
-A sophisticated commercial real estate intelligence platform powering data-driven decisions for enterprise CRE professionals
-
-Live Demo • Documentation • Architecture • Features
-
 Overview
-SuiteStack is a production-grade commercial real estate intelligence platform that provides comprehensive building analytics, AI-powered tenant insights, and advanced market intelligence. Built with modern web technologies and enterprise-grade architecture, the platform manages complex real estate data at scale.
+SuiteStack is a commercial real estate intelligence platform that provides comprehensive building analytics, AI-powered tenant insights, and advanced market intelligence. Built with modern web technologies and enterprise-grade architecture, the platform manages complex real estate data at scale.
 
 Platform Scale
 893 Buildings tracked across multiple markets
